@@ -7,3 +7,8 @@ body {
             color: brown;
             margin-left:21px ;
         }
+
+        p{
+            font-weight: lighter;
+            font-size: larger;
+        }
